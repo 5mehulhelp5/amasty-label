@@ -1,6 +1,12 @@
 # Changelog 
 
-[Unreleased changes](https://github.com/rapidez/amasty-label/compare/4.0.0...master)
+[Unreleased changes](https://github.com/rapidez/amasty-label/compare/4.1.0...master)
+## [4.1.0](https://github.com/rapidez/amasty-label/releases/tag/4.1.0) - 2025-11-11
+
+### Added
+
+- Images and multiple labels on one position support (#16)
+
 ## [4.0.0](https://github.com/rapidez/amasty-label/releases/tag/4.0.0) - 2025-09-02
 
 ### Added
